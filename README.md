@@ -1,34 +1,54 @@
 # 👋 Hi, I'm Umar Muhammad Bello
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+Automation+Learner;Data+Analysis+Enthusiast;Future+Machine+Learning+Engineer" />
+</p>
+
+---
+
 ## 🚀 About Me
-I am a Computer Science student at Federal University Wukari, Nigeria. I am passionate about AI Automation, Data Analysis, Machine Learning, and Software Development. My goal is to build innovative technology solutions that solve real-world problems.
 
-## 🎓 Education
-- B.Sc. Computer Science
-- Federal University Wukari
+🎓 Computer Science Student  
+🤖 AI Automation Learner  
+📊 Data Analysis Enthusiast  
+🧠 Passionate about Machine Learning  
+🏢 Founder of Smart Stock Foods and Technology Ltd.
 
-## 💻 Skills
-- AI Automation
-- Data Analysis
-- Python
-- Git & GitHub
-- Machine Learning
-- Microsoft Excel
+---
+
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![AI](https://img.shields.io/badge/AI-Learning-success?style=for-the-badge)
+
+---
+
+## 📜 Certificates
+
+- 🎖️ Computer Appreciation Skills
+- 🎓 Diploma in Computer Science
+- 📚 AI & Data Analysis Courses
+
+---
 
 ## 📂 Projects
-### 🤖 AI Automation Portfolio
-Creating automation solutions using AI tools.
 
-### 📊 Data Analysis Projects
-Data cleaning, visualization, and reporting.
+🔹 My Data Analysis Portfolio
 
-### 🏢 Smart Stock Foods and Technology
-Technology-driven food storage and supply business.
+---
 
-## 🎯 Career Goal
-To become an AI Automation Engineer and Data Analyst, building intelligent solutions that improve businesses and people's lives.
+## 📫 Contact Me
 
-## 📫 Contact
-- GitHub: https://github.com/umarbellomuhammad5-max
+📧 Email: your-email@example.com
 
-⭐ Thanks for visiting my portfolio!
+---
+
+## 🌍 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+
+---
+
+⭐ Thanks for visiting my profile!
