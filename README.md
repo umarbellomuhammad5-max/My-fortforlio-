@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Umar Muhammad Bello
 <p align="center">
+  <img src="images/banner.jpg" width="100%">
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+Automation+Learner;Data+Analysis+Enthusiast;Future+Machine+Learning+Engineer" />
 </p>
 
