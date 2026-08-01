@@ -50,13 +50,11 @@
 
 ---
 
-## 📫 Contact Me
-
-📧 Email: your-email@example.com
 
 ---
 
-## 🌍 Connect With Me
+## 🌍 Connect With Me via:
+📧 Email: umarbellomuhammad5@gmail.com
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
 
