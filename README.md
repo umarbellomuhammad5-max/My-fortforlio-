@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Umar Muhammad Bello
+
 <p align="center">
   <img src="IMG-20260707-WA0001.jpg" width="100%">
 </p>
