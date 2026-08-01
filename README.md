@@ -3,7 +3,7 @@
   <img src="file_0000000049f08246b99de568c6e35482.png" width="100%" alt="Banner">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+Automation+Learner;Data+Analysis+Enthusiast;Future+Machine+Learning+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+Automation+Learner;Data+Analysis+Enthusiast;Future+Machine+Learning+Engineer" />
 </p>
 
 ---
