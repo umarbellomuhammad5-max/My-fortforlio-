@@ -11,7 +11,6 @@
 ## 🚀 About Me
 
 🎓 Computer Science Student  
-🖥️@federal university wukari 
 🤖 AI Automation Learner  
 📊 Data Analysis Enthusiast  
 🧠 Passionate about Machine Learning  
